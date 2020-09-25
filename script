@@ -1,4 +1,3 @@
-if UsernameBox.Text == "KrakVolt" and PasswordBox.Text == "Petersen8" then
 		game.CoreGui.Login:Destroy()
 		local Animationpart1 = Instance.new("ScreenGui")
 		local Frame = Instance.new("ImageLabel")
